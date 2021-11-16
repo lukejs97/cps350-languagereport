@@ -1,5 +1,5 @@
-// Package tree prints out a textual Christmas tree
-package tree
+// Package main prints out a textual Christmas tree
+package main
 
 import (
 	"os"
